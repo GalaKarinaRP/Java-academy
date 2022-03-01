@@ -1,0 +1,7 @@
+package pattern.command;
+
+import com.sun.tools.script.shell.Main.Command;
+
+public class ExtendedCommand implements Command {
+
+}

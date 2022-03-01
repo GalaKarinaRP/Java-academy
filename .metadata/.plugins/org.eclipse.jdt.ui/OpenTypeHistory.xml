@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Hello-world/C:\/Spring5\/sts-4.11.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.util.concurrent(Delayed.class[Delayed" modifiers="1537" timestamp="1645483242875"/>
+    <typeInfo handle="=Hello-world/C:\/Spring5\/sts-4.11.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.lang(Runnable.class[Runnable" modifiers="1537" timestamp="1645483242875"/>
+    <typeInfo handle="=Hello-world/C:\/Spring5\/sts-4.11.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\/jre\/lib\/jrt-fs.jar`java.scripting=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;com.sun.tools.script.shell(Main$Command.class[Command" modifiers="1546" timestamp="1645483242875"/>
+    <typeInfo handle="=Hello-world/src&lt;pattern.command{Command.java[Command" modifiers="1025" timestamp="1645492791281"/>
+</typeInfoHistroy>
